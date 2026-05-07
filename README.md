@@ -92,7 +92,7 @@ Bonferroni-korrekcióval α = 0.05 / 2 = **0.025**.
    - Effect size: proportion difference 95% CI-vel + Cohen's h.
    - Stratified bootstrap (10 000 iteráció) az analitikus CI megerősítésére.
 
-## Eredmények
+### Eredmények
 
 | Metrika         | gate_30 | gate_40 | Diff     | p-value | Döntés (α=0.025) |
 | --------------- | ------- | ------- | -------- | ------- | ---------------- |
